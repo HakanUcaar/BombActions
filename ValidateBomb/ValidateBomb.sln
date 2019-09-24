@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateBomb", "ValidateBomb\ValidateBomb.csproj", "{8556F84C-BC62-4F79-9DC2-940402E84007}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BombActions", "ValidateBomb\BombActions.csproj", "{8556F84C-BC62-4F79-9DC2-940402E84007}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestVallidateBomb", "TestVallidateBomb\TestVallidateBomb.csproj", "{E8000078-77F2-47B1-8C92-47475A41A228}"
 EndProject

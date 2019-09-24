@@ -51,9 +51,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ValidateBomb\ValidateBomb.csproj">
+    <ProjectReference Include="..\ValidateBomb\BombActions.csproj">
       <Project>{8556f84c-bc62-4f79-9dc2-940402e84007}</Project>
-      <Name>ValidateBomb</Name>
+      <Name>BombActions</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
