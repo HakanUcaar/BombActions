@@ -65,12 +65,10 @@ namespace ValidateBomb
                 if (NextBomb != null)
                 {
                     NextBomb.Booom();
-                    return;
                 }
                 if (NextFunc != null)
                 {
                     NextFunc();
-                    return;
                 }
             }
             else
@@ -78,12 +76,10 @@ namespace ValidateBomb
                 if (FailureBomb != null)
                 {
                     FailureBomb.Booom();
-                    return;
                 }
                 if (FailureFunc != null)
                 {
                     NextFunc();
-                    return;
                 }
             }
         }
@@ -142,12 +138,10 @@ namespace ValidateBomb
                 if (NextBomb != null)
                 {
                     NextBomb.Booom();
-                    return;
                 }
                 if (NextFunc != null)
                 {
                     NextFunc();
-                    return;
                 }
             }
             else
@@ -155,12 +149,10 @@ namespace ValidateBomb
                 if (FailureBomb != null)
                 {
                     FailureBomb.Booom();
-                    return;
                 }
                 if (FailureFunc != null)
                 {
                     NextFunc();
-                    return;
                 }
             }
         }

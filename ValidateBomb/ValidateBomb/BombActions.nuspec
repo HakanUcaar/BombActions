@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>HakanUcar.BombAction</id>
+    <id>BombActions</id>
     <version>1.0.0.0</version>
     <title>BombAction</title>
     <authors>Hakan Uçar</authors>
