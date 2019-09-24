@@ -82,3 +82,4 @@ Sıralı Patlayan Olaylar Örgüsü
 ```
 
 # Çıktı:
+![OrnekCikti](https://github.com/HakanUcaar/BombActions/blob/master/Cikti.png)
