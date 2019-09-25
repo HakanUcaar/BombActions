@@ -1,6 +1,8 @@
 # BombActions
 Sıralı Patlayan Olaylar Örgüsü
 
+Olayın doğru veya yanlış olmasına bağlı olarak sıradaki olayı patlatan bomba bir class. Bir nevi iş akışı. Konsept bir çalışma.
+
 # Test Kod:
 ```Csharp
     class BombTest
